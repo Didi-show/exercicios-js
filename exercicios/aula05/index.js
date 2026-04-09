@@ -9,11 +9,11 @@
 export function classificarIdade(idade) {
   
   if (idade >= 18) {
-    return ('adulto');
+    return ("adulto");
   }else if (idade >= 12) {
-    return ('Adolescente');
+    return ("dolescente");
   }else {
-    return ('Criança');
+    return ("Criança");
   }
 }
 
