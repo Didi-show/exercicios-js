@@ -13,7 +13,7 @@ export function classificarIdade(idade) {
   }else if (idade >= 12) {
     return ("dolescente");
   }else {
-    return ("Criança");
+    return ("criança");
   }
 }
 
